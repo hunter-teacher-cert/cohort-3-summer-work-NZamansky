@@ -1,5 +1,5 @@
-* Last name:
-* First name:
+* Last name: Natan 
+* First name: Zamansky
 * Github username:
 
 * Instructions:
